@@ -1,4 +1,4 @@
-﻿# Dependencies
+# Dependencies
 node_modules/
 client/node_modules/
 server/node_modules/
@@ -10,10 +10,7 @@ server/dist/
 build/
 
 # Environment files
-.env
-.env.local
-server/.env
-client/.env
+# (.env included as per user request)
 
 # IDE / OS files
 .DS_Store
